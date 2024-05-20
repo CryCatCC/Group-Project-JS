@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catalog of Conditional Goods or Services</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="gamestyle.css">
+</head>
+<body>
+    <div class="navbar">
+        <div class="logo">
+            <!-- Logo as a button -->
+            <a href="index.html"><img src="logo.png" alt="Logo"></a>
+            <a href="index.html"><img src="Sugar-Bliss.png" alt="Name"></a>
+        </div>
+        <!-- Home button -->
+        <button id="burger"><i></i></button>
+        <div class="nav_menu">
+            <a href="index.html">Home</a>
+            <div class="dropdown">
+                <a href="#" class="dropbtn">Catalog</a>
+                <div id="Categories" class="dropdown-content normal">
+                </div>
+            </div>
+            <a href="#specials" id="specials-link">Specials</a>
+            <button onclick="loadgame()">Game</button>
+        </div>
+    </div>
+    <div id="catalog-container">
+        <!-- Catalog items will be added here -->
+    </div>
+    
+    <footer>
+        <div class="footer-section">
+            <h3>About the Developers</h3>
+            <p>Me and my 2 brain cells</p>
+        </div>
+        <div class="footer-section">
+            <h3>User Information</h3>
+            <p>For any inquiries, please contact us at custom-support@gmail.com.</p>
+        </div>
+        
+        <div class="footer-section">
+            <h3>Follow Us</h3>
+            <div class="social-icons">
+                <a href="https://www.facebook.com" target="_blank">
+                    <img src="facebook.png" alt="Facebook">
+                </a>
+                <a href="https://www.twitter.com" target="_blank">
+                    <img src="twitter.png" alt="Twitter">
+                </a>
+                <a href="https://www.instagram.com" target="_blank">
+                    <img src="instagram.png" alt="Instagram">
+                </a>
+            </div>
+        </div>
+        <div class="footer-section">
+            <p>&copy; 2024 Sugar Bliss. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="burger.js"></script>
+    <script src="game.js"></script>
+</body>
+</html>
