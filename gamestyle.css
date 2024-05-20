@@ -1,0 +1,33 @@
+#catalog-container table{
+    margin: auto;
+}
+table td{
+    width:100px;
+    height: 100px;
+    border:2px solid black;
+}
+.player{
+    width: 45px;
+    height: 45px;
+}
+
+.place0{
+    border:2px solid red;
+}
+.place1{
+    border-color:yellow;
+}
+.place2{
+    border-color:greenyellow;
+}
+#start_button,#new_game_button{
+    width:100px;
+    height:100px;
+}
+
+.hide>img{
+    display: none;
+}
+caption{
+    font-size: 2em;
+}
