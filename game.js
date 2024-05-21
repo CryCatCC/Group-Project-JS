@@ -6,7 +6,7 @@ function loadgame(){
     start.id="start_button";
     var game_state = 0;
     var boardSize = 3;
-    var cake_names = ["coffee","cream","kakao"]
+    var cake_names = ["coffee","cream","cocoa"]
     start.addEventListener("click",function(){
         if (game_state==0){
             game_try=boardSize;
@@ -97,7 +97,7 @@ function toggleCell(event,number){
         cell.classList.toggle("place0");
         game_try-=1;
     if (game_try==0){
-        alert("You loose");
+        alert("You lose");
     }
     }
 
