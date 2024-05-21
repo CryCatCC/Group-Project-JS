@@ -3,32 +3,28 @@
         "id": 1,
         "name": "Coffee Cake",
         "shortname": "Coffee",
-        "description": "A delicious coffee-flavored cake, 
-	    perfect for coffee lovers",
+        "description": "A delicious coffee-flavored cake, perfect for coffee lovers",
 		"price": 150
     },
     {
         "id": 2,
         "name": "Cream Cake",
         "shortname": "Cream Cake",
-        "description": " A rich and creamy cake,
-	    ideal for those who enjoy a smooth and velvety texture",
+        "description": " A rich and creamy cake,ideal for those who enjoy a smooth and velvety texture",
 		"price": 100
     },
     {
         "id": 3,
         "name": "Cocoa Cake",
         "shortname": "Cocoa Cake",
-        "description": " A delightful cocoa-flavored cake,
-	    offering a deep and intense chocolate experience",
+        "description": " A delightful cocoa-flavored cake,offering a deep and intense chocolate experience",
 		"price": 100
     },
     {
         "id": 4,
         "name": "Chocolate Cake",
         "shortname": "Chocolate Cake",
-        "description": "A classic chocolate cake,
-	    perfect for any chocolate lover",
+        "description": "A classic chocolate cake,perfect for any chocolate lover",
 		"price": 150
     }
 ]
