@@ -1,30 +1,30 @@
 [
     {
         "id": 1,
-        "name": "Colorfull Cookies",
-        "shortname": "Colorfull",
-        "description": " ",
-		"price": 30
+        "name": "Colorful Cookies",
+        "shortname": "Colorful",
+        "description": "Bright and vibrant cookies, perfect for adding a splash of color to any occasion.",
+        "price": 30
     },
     {
         "id": 2,
         "name": "Lovely Cookies",
         "shortname": "Lovely",
-        "description": " ",
-		"price": 50
+        "description": "Adorably decorated cookies, ideal for showing someone you care.",
+        "price": 50
     },
     {
         "id": 3,
         "name": "Soft Cookies",
         "shortname": "Soft",
-        "description": " ",
-		"price": 50
+        "description": "Deliciously soft and chewy cookies that melt in your mouth.",
+        "price": 50
     },
     {
         "id": 4,
         "name": "Strawberry Cream Cookies",
         "shortname": "Strawberry Cream",
-        "description": " ",
-		"price": 40
+        "description": "Crispy cookies with a luscious strawberry cream filling.",
+        "price": 40
     }
 ]
