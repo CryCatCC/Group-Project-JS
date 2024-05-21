@@ -3,14 +3,14 @@
         "id": 1,
         "name": "M&M's",
         "shortname": "M&M's",
-        "description": " ",
+        "description": "Colorful candy-coated chocolates, perfect for a sweet treat. ",
 		"price": 30
     },
     {
         "id": 2,
         "name": "Jelly Candies",
         "shortname": "Jelly Candies",
-        "description": " ",
+        "description": "Soft and chewy jelly candies, available in a variety of fruity flavors",
 		"price": 50
     },
     {
@@ -24,7 +24,7 @@
         "id": 4,
         "name": "Rainbow Star Candies",
         "shortname": "Rainbow Star",
-        "description": " ",
+        "description": "Vibrant star-shaped candies, bursting with fruity flavors and fun colors",
 		"price": 40
     }
 ]
