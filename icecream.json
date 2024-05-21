@@ -3,28 +3,29 @@
         "id": 1,
         "name": "Strawberry",
         "shortname": "Strawberry",
-        "description": " ",
-		"price": 30
+        "description": "Delicious strawberry-flavored treat, bursting with fruity goodness.",
+        "price": 30
     },
     {
         "id": 2,
-        "name": "Colorfull",
-        "shortname": "Colorfull",
-        "description": " ",
-		"price": 50
+        "name": "Colorful",
+        "shortname": "Colorful",
+        "description": "A vibrant assortment of sweets, perfect for adding a splash of color to your day.",
+        "price": 50
     },
     {
         "id": 3,
         "name": "Kakao",
         "shortname": "Kakao",
-        "description": " ",
-		"price": 50
+        "description": "Rich and indulgent cocoa-flavored treat, perfect for chocolate lovers.",
+        "price": 50
     },
     {
         "id": 4,
         "name": "Vanilla",
         "shortname": "Vanilla",
-        "description": " ",
-		"price": 40
+        "description": "Classic vanilla-flavored treat, offering a smooth and creamy taste experience.",
+        "price": 40
     }
 ]
+
