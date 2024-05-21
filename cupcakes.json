@@ -3,28 +3,28 @@
         "id": 1,
         "name": "Chocolate Winter Cupcake",
         "shortname": "Chocolate Winter",
-        "description": " ",
+        "description": "A rich chocolate cupcake with a winter-themed design, perfect for the holiday season",
 		"price": 30
     },
     {
         "id": 2,
         "name": "Colorfull cream Cupcake",
         "shortname": "Colorfull cream",
-        "description": " ",
+        "description": "A vibrant cupcake topped with colorful cream, adding a fun twist to your dessert",
 		"price": 50
     },
     {
         "id": 3,
         "name": "Soft Cream Cupcake",
         "shortname": "Soft Cream",
-        "description": " ",
+        "description": "A soft and fluffy cupcake with a creamy topping, offering a delicate and smooth taste",
 		"price": 50
     },
     {
         "id": 4,
         "name": "Colorfull chocolate Cupcake",
         "shortname": "Colorfull chocolate",
-        "description": " ",
+        "description": "A chocolate cupcake adorned with colorful decorations, combining chocolatey goodness with a playful appearance",
 		"price": 40
     }
 ]
